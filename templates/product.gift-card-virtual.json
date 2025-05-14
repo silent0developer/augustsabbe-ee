@@ -139,6 +139,7 @@
         },
         "collapsible_tab_XFnybm": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Kohaletoimetamine 1 päev",
             "icon": "plane",
@@ -148,6 +149,7 @@
         },
         "collapsible_tab_R96Dn3": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Millist suurust valida?",
             "icon": "ruler",
@@ -157,6 +159,7 @@
         },
         "collapsible_tab_ejUL68": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Mis saab kui suurus on vale?",
             "icon": "recycle",
@@ -166,6 +169,7 @@
         },
         "candy_rack_product_placement_button_9ADLmC": {
           "type": "shopify://apps/candy-rack/blocks/product-placement-button/cb9c657f-334f-4905-80c2-f69cca01460c",
+          "disabled": true,
           "settings": {
             "title_text": "Get extras for your product",
             "subtitle_text": "",
@@ -217,7 +221,9 @@
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 12
+        "padding_bottom": 12,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 8
       }
     },
     "related-products": {
@@ -294,6 +300,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "accent-1",
+        "color_scheme_mobile": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,

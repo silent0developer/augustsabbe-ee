@@ -189,7 +189,7 @@
         "color_scheme": "scheme-7225ebb2-37ae-4ae3-8c7a-8c45c12b4672",
         "media_size": "large",
         "constrain_to_viewport": false,
-        "media_fit": "contain",
+        "media_fit": "cover",
         "gallery_layout": "stacked",
         "media_position": "left",
         "image_zoom": "lightbox",

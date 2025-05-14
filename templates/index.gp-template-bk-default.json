@@ -1,0 +1,312 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Men's Underwear for True Legends!",
+            "heading_size": "h0"
+          }
+        },
+        "4d6e0430-f77d-45a8-bd8b-260dd69bb086": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Premium Men's Underwear",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "VIEW COLLECTION",
+            "button_link_1": "shopify://collections/august-sabbe-aluspesu",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "4d6e0430-f77d-45a8-bd8b-260dd69bb086",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/AugustSabbe-b_w-11_small_b38ebe40-2f89-4796-8e16-e166d4b3dd4a.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "image_with_text_wU3dBP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4MypH3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sabbe Sports",
+            "heading_size": "h1"
+          }
+        },
+        "text_KmbetC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The ultimate underwear choice for active men!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_WH9Wgx": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP SABBE SPORTS",
+            "button_link": "shopify://products/sabbe-sport-3-pakk"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4MypH3",
+        "text_KmbetC",
+        "button_WH9Wgx"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/sabbesports3.webp",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_q7kJFa": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8fqJB4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sabbe Daily",
+            "heading_size": "h1"
+          }
+        },
+        "text_FeVpiw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The ideal underwear choice for your everyday comfort.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_z4ndLf": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP SABBE DAILY",
+            "button_link": "shopify://products/sabbe-igapaev-3-pakk"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8fqJB4",
+        "text_FeVpiw",
+        "button_z4ndLf"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/AugustSabbe-30_7820a701-ca03-4bcd-a897-6bfb223a7344.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4438cf71-51c6-41de-8692-fd8661b2ea8e": {
+      "type": "video",
+      "settings": {
+        "heading": "Women Around The World Love August Sabbe",
+        "heading_size": "h1",
+        "video_url": "https://youtu.be/ULZqzAcOGCA",
+        "cover_image": "shopify://shop_images/Capture.png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_E4CyEf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Get 3 Pairs or More, Save 25%!",
+        "heading_size": "h1",
+        "description": "<p>Add 3 or more products to your cart, and the discount will be applied automatically.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "august-sabbe-aluspesu",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6b331621-28b6-4907-9bd9-b98faf5353dd": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "Fast and Free Worldwide Shipping",
+        "heading_size": "h1",
+        "video_url": "https://youtu.be/dFFvhkTU_go",
+        "cover_image": "shopify://shop_images/Screenshot_2023-11-27_at_16.26.36.png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b77e49eb-0993-4afb-bac8-5653a79b8ec6": {
+      "type": "collection-list",
+      "blocks": {
+        "template--17739091116324__b77e49eb-0993-4afb-bac8-5653a79b8ec6-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-sport"
+          }
+        },
+        "template--17739091116324__b77e49eb-0993-4afb-bac8-5653a79b8ec6-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-igapaev"
+          }
+        }
+      },
+      "block_order": [
+        "template--17739091116324__b77e49eb-0993-4afb-bac8-5653a79b8ec6-featured_collection-1",
+        "template--17739091116324__b77e49eb-0993-4afb-bac8-5653a79b8ec6-featured_collection-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "46f7dbbd-f462-4175-b44e-1abfd882dd2a": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-price-1": {
+          "type": "price",
+          "settings": {}
+        },
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-share-1": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-title-1",
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-price-1",
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-variant_picker-1",
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-quantity_selector-1",
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-buy_buttons-1",
+        "template--17739091116324__46f7dbbd-f462-4175-b44e-1abfd882dd2a-share-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "underwear",
+        "color_scheme": "background-2",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17061952961eba4f8c": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "image_with_text_wU3dBP",
+    "image_with_text_q7kJFa",
+    "4438cf71-51c6-41de-8692-fd8661b2ea8e",
+    "featured_collection_E4CyEf",
+    "6b331621-28b6-4907-9bd9-b98faf5353dd",
+    "b77e49eb-0993-4afb-bac8-5653a79b8ec6",
+    "46f7dbbd-f462-4175-b44e-1abfd882dd2a",
+    "17061952961eba4f8c"
+  ]
+}

@@ -1,0 +1,288 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_7YGCDg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Qi7PVq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kuidas sündis August Sabbe bränd?",
+            "heading_size": "h1"
+          }
+        },
+        "text_WhmrAH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>August Sabbe bränd on meestele, kes võitlevad alati lõpuni ega anna iial alla. </p><p>Meestele, kes jäävad truuks oma veendumustele ja kelle peale saab kindel olla.</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Qi7PVq",
+        "text_WhmrAH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Untitled_design_1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_XNxMak": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/sabbe kes oli sabbe video.mp4",
+        "video_url": "",
+        "description": "About August Sabbe",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+        "h1 {text-align: center;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "ss_timeline_3_NgttBg": {
+      "type": "ss-timeline-3",
+      "blocks": {
+        "item_nXrfnr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/august_sabbe.gif",
+            "hide_image": false,
+            "heading": "<h3>Aitäh, August Sabbe!</h3>",
+            "text": ""
+          }
+        },
+        "item_mJiL7j": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/450130966_1582515249280028_1575381864347280660_n.jpg",
+            "hide_image": false,
+            "heading": "<h3>2013 Ülikooli äriplaan Meeste pesupood - myass.ee</h3>",
+            "text": "<p>Asutaja Andreas õppis Tallinna Ülikoolis Reklaami ja Imagoloogiat. Loengus oli vaja teha äriplaan. Mõttest tegudeni läks 10 aastat.</p>"
+          }
+        },
+        "item_ffwJ6R": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/452631919_437205749370621_4024007984646973664_n.jpg",
+            "hide_image": false,
+            "heading": "<h3>2015 otsis founder sõpru, kellega koos teha.</h3>",
+            "text": "<p>Messengeri chatist kaugemale ei jõudnud, sest keegi ei uskunud, et on võimalik.</p>"
+          }
+        },
+        "item_UegMpe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/333875052_208794361811830_5489158108170447014_n.jpg",
+            "hide_image": false,
+            "heading": "<h3>2022 nime valik</h3>",
+            "text": "<p>Eesmärk oli leida nimi, mis oleks tugev ja kõlaks ka rahvusvaheliselt. August Sabbe läks lukku kohe kui mõttesse tuli.</p>"
+          }
+        },
+        "item_JGAiAD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_1.png",
+            "hide_image": false,
+            "heading": "<h3>Registreerisime kaubamärgi ja uurisime sugupuud</h3>",
+            "text": "<p>Uurisime, et kas Sabbel on järglasi, kellelt on viisakas eelisjärjekorras küsida, mis mõttest arvavad. Saime aru, et Sabbel endal järglasi ei olnud seega andsime kaubamärgi taotluse Patendiametisse sisse, mis ka rahuldati.</p>"
+          }
+        },
+        "item_ewRcPV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/454020035_878272390781516_6681667653766121672_n.jpg",
+            "hide_image": false,
+            "heading": "<h3>August Sabbe I office/punker</h3>",
+            "text": "<p>Kolisime Tallinnast tagasi Võrumaale. Äri alustamiseks oli veidi raha kõrvale pandud, aga tööd oli ka vaja kusagil teha. Võrus kontoripindasid ei ole, siis otsustasime võtta korteri, et teeme möödaminnes korda ka ja kui pesu arendamine valmis saab  siis müüme maha, et oleks raha pesu tellida.</p><p>Mariliis õppis Amazoni koolis ja alustas tootjate otsimist.</p>"
+          }
+        },
+        "item_pAFVLp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/336447751_186415564128965_1185989197547718615_n.jpg",
+            "hide_image": false,
+            "heading": "<h3>Tellisime näidiseid ja tegime pimeteste</h3>",
+            "text": "<p>Fashionist olime sama kaugel kui maa päikesest, aga hakkasime kuskilt pihta. Kolistasime pool aastat ämbreid kuniks lõpuks kui ideed otsa said siis kirjutasin Facebooki otsingusse TKTK  ehk Tallinna Tööstushariduskool ja lihtsalt käisin kõik profiilid läbi, kes seal koolis on õppinud rõivaste modelleerimist ja lõpuks leidsin ühe inimese, kes on täielik professionaal ja pani meil krempli kokku. </p>"
+          }
+        },
+        "item_JMrLec": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AugustSabbe-19_small_2.jpg",
+            "hide_image": false,
+            "heading": "<h3>Shooting karbile ja e-poodi</h3>",
+            "text": "<p>Plaan oli teha selline karp, mida teistel ei ole. 100st 99-l karbil on ainult mees. Otsisime naised, normid mehed ja tegime photoshooti. </p>"
+          }
+        },
+        "item_wTPjki": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/sabbe_special_better_quality.webp",
+            "hide_image": false,
+            "heading": "<h3>Sabbe karbi disain</h3>",
+            "text": "<p>Sõber Rasmus on väga hea käega ja võttis asja ette. Ta on loonud kogu Sabbe brandi visuaali. Kokkulepe on, et kui hästi hakkab minema, siis saadab arve või tuleb omanikeringi. Sellised sõbrad peavadki olema. </p>"
+          }
+        },
+        "item_hMDahT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/455821756_1235313354270231_1349567103949497218_n.jpg",
+            "hide_image": false,
+            "heading": "<h3>12. Jaanuar Sabbed jõudsid</h3>",
+            "text": "<p>Jõuluks pidid jõudma, aga transport venis. Vahepeal juba arvasin, et saime scammi. Lõpuks oli kaup kohal ja meel hea. </p>"
+          }
+        },
+        "item_UaWdRP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Delfi.png",
+            "hide_image": false,
+            "heading": "<h3>Delfi artikkel, 19.märts</h3>",
+            "text": "<p>Olin Tartus lõunat söömas ja järsku hakkas telefon piiksuma. Õhtuks oli 5000 EUR eest müüki. Naine õhtul ütles, et sulle helistatakse, aga telefon värises nii tihedalt vahepeal, et need olid müügid. Olime julmalt õnnelikud.</p>"
+          }
+        },
+        "item_ByjmRD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4161.jpg",
+            "hide_image": false,
+            "heading": "<h3>Tellimusi muudkui tuleb</h3>",
+            "text": "<p>Meid tabas positiivne probleem. Lihtsalt pakendasime ööd ja päevad, et kõik õigeaegselt tehtud saaks. </p>"
+          }
+        },
+        "item_WHNgi8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/nasdaqlogo.png",
+            "hide_image": false,
+            "heading": "<h3>2030 NASDAQ BALTIC</h3>",
+            "text": "<p>Plaan on teha nii, et ühel päeval saavad kõik soovijad August Sabbe brändi omanikud olla. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_nXrfnr",
+        "item_mJiL7j",
+        "item_ffwJ6R",
+        "item_UegMpe",
+        "item_JGAiAD",
+        "item_ewRcPV",
+        "item_pAFVLp",
+        "item_JMrLec",
+        "item_wTPjki",
+        "item_hMDahT",
+        "item_UaWdRP",
+        "item_ByjmRD",
+        "item_WHNgi8"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 64,
+        "heading_size_mobile": 28,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "items_mt": 60,
+        "items_mt_mobile": 40,
+        "items_space": 24,
+        "items_space_mobile": 24,
+        "content_padding_horizontal": 48,
+        "content_padding_horizontal_mobile": 48,
+        "circle_size": 32,
+        "circle_size_mobile": 20,
+        "circle_border_thickness": 1,
+        "image_width": 50,
+        "image_width_mobile": 50,
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "original",
+        "image_ratio_mobile": "original",
+        "image_align": "center",
+        "image_align_mobile": "center",
+        "item_heading_custom": false,
+        "item_heading_font": "josefin_sans_n4",
+        "item_heading_size": 32,
+        "item_heading_size_mobile": 20,
+        "item_heading_height": 130,
+        "item_heading_mt": 16,
+        "item_heading_mt_mobile": 16,
+        "item_heading_align": "left",
+        "item_heading_align_mobile": "left",
+        "item_text_custom": false,
+        "item_text_font": "josefin_sans_n4",
+        "item_text_size": 21,
+        "item_text_size_mobile": 16,
+        "item_text_height": 170,
+        "item_text_mt": 16,
+        "item_text_mt_mobile": 16,
+        "item_text_align": "left",
+        "item_text_align_mobile": "left",
+        "line_color": "#000000",
+        "circle_bg_color": "#e3e3e3",
+        "circle_border_color": "#000000",
+        "item_heading_color": "#000000",
+        "item_text_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "image_with_text_7YGCDg",
+    "video_XNxMak",
+    "main",
+    "ss_timeline_3_NgttBg"
+  ]
+}

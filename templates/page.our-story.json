@@ -1,0 +1,132 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "31ef125c-7509-4c84-bbc9-e1370042e7e8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17739091312932__31ef125c-7509-4c84-bbc9-e1370042e7e8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "I have to make money, that's why I started this business.",
+            "heading_size": "h1"
+          }
+        },
+        "template--17739091312932__31ef125c-7509-4c84-bbc9-e1370042e7e8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p> I want to build a house, put bread on the table, show the world to my child, drive a decent car, and have fun—that's it.</p><p>Andreas Org </p><p>+372 5555 9390</p><p>andreas@augustsabbe.com</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17739091312932__31ef125c-7509-4c84-bbc9-e1370042e7e8-heading-1",
+        "template--17739091312932__31ef125c-7509-4c84-bbc9-e1370042e7e8-text-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/399919293_731084618925945_2065974269611977548_n.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "328abea1-f992-4e72-ba97-3476fb55879d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17739091312932__328abea1-f992-4e72-ba97-3476fb55879d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our story",
+            "heading_size": "h1"
+          }
+        },
+        "template--17739091312932__328abea1-f992-4e72-ba97-3476fb55879d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17739091312932__328abea1-f992-4e72-ba97-3476fb55879d-heading-1",
+        "template--17739091312932__328abea1-f992-4e72-ba97-3476fb55879d-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c4ca15c3-f959-4193-be29-1044a616599f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17739091312932__c4ca15c3-f959-4193-be29-1044a616599f-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "August Sabbe was nobody until...",
+            "heading_size": "h1"
+          }
+        },
+        "template--17739091312932__c4ca15c3-f959-4193-be29-1044a616599f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>He became the last man standing against the Soviet Union.</h4><h4>August was a man who never gave up.</h4><h4>August could die as a free man.</h4><h4>Every man can be a hero.<br/>August Sabbe<br/>1909 - 1978</h4>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17739091312932__c4ca15c3-f959-4193-be29-1044a616599f-heading-1",
+        "template--17739091312932__c4ca15c3-f959-4193-be29-1044a616599f-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/August_Sabbe.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "31ef125c-7509-4c84-bbc9-e1370042e7e8",
+    "328abea1-f992-4e72-ba97-3476fb55879d",
+    "c4ca15c3-f959-4193-be29-1044a616599f"
+  ]
+}

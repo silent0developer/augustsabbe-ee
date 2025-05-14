@@ -1,0 +1,273 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "loox_reviews_loox_rating_HnJN7Y": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "variant_picker_CyAAat": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "loox_reviews_loox_snippets_widget_whe9JT": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-snippets-widget/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "alignment": "left",
+            "max-width": "",
+            "color-scheme": "default",
+            "shadow": "",
+            "show-rating": true,
+            "show-image": true,
+            "hide-arrows-mobile": false,
+            "font-size": 14,
+            "show-border": false,
+            "border-radius": 16,
+            "background-color": "",
+            "text-color": "",
+            "name-color": "",
+            "rating-icon-color": "",
+            "border-color": "",
+            "shadow-color": "",
+            "reviews-limit": 10
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "loox_reviews_loox_rating_HnJN7Y",
+        "description",
+        "variant_picker_CyAAat",
+        "quantity_selector",
+        "price",
+        "buy_buttons",
+        "loox_reviews_loox_snippets_widget_whe9JT"
+      ],
+      "custom_css": [],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-7225ebb2-37ae-4ae3-8c7a-8c45c12b4672",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "17074861568df8c3c0": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_69eKkn": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": true,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_69eKkn"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kas sul on raskusi meie toote märkamisega siin pildil? Kui jah, siis oled avastanud aluspesu brändi kogu eluks!",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/AugustSabbe-b_w-20_small_4d08b05e-04ce-4a64-b464-e7c25914236f.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0d204d45-5273-4e4f-8668-9f3709fd93c9": {
+      "type": "video",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "heading": "Naised üle maailma kiidavad Sabbesid!",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/Sexiest_underwearbrand.mp4",
+        "video_url": "",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "910e837c-7bcf-4ca5-9d3c-fbb0e4bd944c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17739091018020__910e837c-7bcf-4ca5-9d3c-fbb0e4bd944c-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Party model - Coming soon",
+            "heading_size": "h2"
+          }
+        },
+        "template--17739091018020__910e837c-7bcf-4ca5-9d3c-fbb0e4bd944c-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Wait like a little boy waiting for his dad to finish work - Stay tuned.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17739091018020__910e837c-7bcf-4ca5-9d3c-fbb0e4bd944c-heading-1",
+        "template--17739091018020__910e837c-7bcf-4ca5-9d3c-fbb0e4bd944c-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/IMG_7950.heic",
+        "image_overlay_opacity": 60,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "170748529126cc95af": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "video_EcA6cg": {
+      "type": "video",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "heading": "August Sabbe on Eesti rahva kangelane!",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/sabbe kes oli sabbe video.mp4",
+        "video_url": "",
+        "description": "August Sabbe The Estonian HERO",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "17074861568df8c3c0",
+    "image-with-text",
+    "0d204d45-5273-4e4f-8668-9f3709fd93c9",
+    "910e837c-7bcf-4ca5-9d3c-fbb0e4bd944c",
+    "170748529126cc95af",
+    "video_EcA6cg"
+  ]
+}

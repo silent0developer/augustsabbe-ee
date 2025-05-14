@@ -1,0 +1,78 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "disabled": true,
+      "custom_css": [
+        "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
+        " /* Align all text to center */p,span,div {text-align: center;}",
+        " /* Align the collection hero description to center */.collection-hero__description.rte {text-align: center; margin-left: auto; margin-right: auto; display: block;}"
+      ],
+      "settings": {
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "columns_mobile": "2"
+      }
+    },
+    "collection_list_Bwpgpf": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_XbVVTX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-igapaev"
+          }
+        },
+        "featured_collection_i6cYry": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-sport"
+          }
+        },
+        "featured_collection_ejc6TE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-pidupaev"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_XbVVTX",
+        "featured_collection_i6cYry",
+        "featured_collection_ejc6TE"
+      ],
+      "custom_css": [
+        "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
+        " /* Align all text to center */p,span,div {text-align: center;}",
+        " /* Align the collection hero description to center */.collection-hero__description.rte {text-align: center; margin-left: auto; margin-right: auto; display: block;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collection_list_Bwpgpf"
+  ]
+}

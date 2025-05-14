@@ -1,0 +1,97 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "ss_countdown_bar_pnAfw8": {
+      "type": "ss-countdown-bar",
+      "blocks": {
+        "text_7DQAa7": {
+          "type": "text",
+          "settings": {
+            "heading": "Metsavennapühad. Kõik Sabbed -15%!",
+            "color": "#111111",
+            "font_size": 20
+          }
+        }
+      },
+      "block_order": [
+        "text_7DQAa7"
+      ],
+      "disabled": true,
+      "settings": {
+        "target_selector": ".header, .pageheader, .section-header, #announcement, .toolbar, .header__wrapper, .onboarding-header",
+        "use_cross": true,
+        "days_text": "päeva",
+        "hours_text": "tundi",
+        "mins_text": "min",
+        "seconds_text": "sek",
+        "background-color": "#37acbf"
+      }
+    },
+    "announcement_bar_jmfFn4": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_CYkc8n": {
+          "type": "announcement",
+          "settings": {
+            "text": "Üle €69 tellimustele tasuta transport!",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_CYkc8n"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-da8680bf-2305-461e-b5cf-5c774b720791",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-center",
+        "menu": "main-menu",
+        "menu_type_desktop": "mega",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": true,
+        "color_scheme": "scheme-7225ebb2-37ae-4ae3-8c7a-8c45c12b4672",
+        "menu_color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "enable_customer_avatar": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "1724247489d2948d9e": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "ss_countdown_bar_pnAfw8",
+    "announcement_bar_jmfFn4",
+    "header",
+    "1724247489d2948d9e"
+  ]
+}

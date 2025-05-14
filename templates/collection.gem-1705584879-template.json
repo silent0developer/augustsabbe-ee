@@ -1,0 +1,107 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "c785480a-8666-4e76-8876-70bbb5be5325": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-price-1": {
+          "type": "price",
+          "settings": {}
+        },
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-text-1",
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-title-1",
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-price-1",
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-variant_picker-1",
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-quantity_selector-1",
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-buy_buttons-1",
+        "template--17739090919716__c785480a-8666-4e76-8876-70bbb5be5325-share-1"
+      ],
+      "settings": {
+        "product": "underwear",
+        "color_scheme": "accent-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "c785480a-8666-4e76-8876-70bbb5be5325",
+    "product-grid"
+  ]
+}

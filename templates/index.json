@@ -1,0 +1,749 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_CM69qn": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_TFGQQb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tugevad mehed loovad häid aegu",
+            "heading_size": "h0"
+          }
+        },
+        "text_yMjG7n": {
+          "type": "text",
+          "settings": {
+            "text": "Premium pesu neile, kes võitlevad alati lõpuni",
+            "text_style": "body"
+          }
+        },
+        "buttons_BwqGfV": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Mehed",
+            "button_link_1": "shopify://collections/august-sabbe-aluspesu",
+            "button_style_secondary_1": false,
+            "button_label_2": "Naised",
+            "button_link_2": "shopify://collections/sabbe-naiste-pesu",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_TFGQQb",
+        "text_yMjG7n",
+        "buttons_BwqGfV"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/3.webp",
+        "image_2": "shopify://shop_images/women_banner.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tugevad mehed loovad häid aegu",
+            "heading_size": "h1"
+          }
+        },
+        "4d6e0430-f77d-45a8-bd8b-260dd69bb086": {
+          "type": "text",
+          "settings": {
+            "text": "Premium pesu ja rõivad meestele",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Mehed",
+            "button_link_1": "shopify://collections/august-sabbe-aluspesu",
+            "button_style_secondary_1": false,
+            "button_label_2": "Naised",
+            "button_link_2": "shopify://products/sabbe-kombo-3-pakk-2-igapaeva-1-spordi",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "4d6e0430-f77d-45a8-bd8b-260dd69bb086",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/IMG_3870.jpg",
+        "image_2": "shopify://shop_images/0E3A4896.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "1707920639bf90b5a3": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_trust_badge_GqhQCF": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "layout": "horizontal-slim",
+            "alignment": "center",
+            "scheme-type": "default",
+            "review-title": "tootearvustust",
+            "rating-icon": true,
+            "average-rating": true,
+            "loox-branding": false,
+            "review-count": true,
+            "open-reviews": true,
+            "show-border": false,
+            "border-radius": 8,
+            "font-size": 20,
+            "background-color": "",
+            "secondary-background-color": "",
+            "text-color": "",
+            "rating-icon-color": "",
+            "border-color": ""
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_trust_badge_GqhQCF"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "collection_list_pP7VHQ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_fW3kRD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-igapaev"
+          }
+        },
+        "featured_collection_km3Y4k": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-sport"
+          }
+        },
+        "featured_collection_ggzztP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-pidupaev"
+          }
+        },
+        "featured_collection_cFytJA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kombod"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_fW3kRD",
+        "featured_collection_km3Y4k",
+        "featured_collection_ggzztP",
+        "featured_collection_cFytJA"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_E4CyEf": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "title": "<a href=\"/pages/rahulkliendid\" title=\"Happy Customers\">#sabbesalk</a> soovitab",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "sabbe-top-3-valikut",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1718042186e42c5126": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_Ab9Dgk": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": true,
+            "hide_thumbnails": true,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 10,
+            "maxwidth": 1600,
+            "is_sample": false
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_Ab9Dgk"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "ss_video_with_text_3_EVP9pX": {
+      "type": "ss-video-with-text-3",
+      "settings": {
+        "media": "video",
+        "video": "shopify://files/videos/Sexiest_underwearbrand.mp4",
+        "video_url": "",
+        "media_width": 50,
+        "media_width_mobile": 100,
+        "media_position": "second",
+        "media_position_mobile": "second",
+        "media_ratio": "portrait",
+        "media_ratio_mobile": "portrait",
+        "media_border_thickness": 0,
+        "media_radius": 0,
+        "controls": true,
+        "autoplay": true,
+        "loop": true,
+        "content_padding_vertical": 32,
+        "content_padding_vertical_mobile": 12,
+        "content_padding_horizontal": 100,
+        "content_padding_horizontal_mobile": 12,
+        "heading": "<h2>Daamid üle ilma armastavad August Sabbe meeste aluspesu</h2>",
+        "heading_custom": true,
+        "heading_font": "inter_n6",
+        "heading_size": 40,
+        "heading_size_mobile": 40,
+        "heading_height": 110,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "heading_position": "1",
+        "heading_position_mobile": "1",
+        "sub_heading": "<p><em>\"It looks very sexy on men!\"</em></p>",
+        "sub_heading_custom": false,
+        "sub_heading_font": "inter_n4",
+        "sub_heading_size": 18,
+        "sub_heading_size_mobile": 18,
+        "sub_heading_height": 150,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "sub_heading_mt": 16,
+        "sub_heading_position": "3",
+        "sub_heading_position_mobile": "2",
+        "text": "",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_align": "center",
+        "text_align_mobile": "center",
+        "text_mt": 40,
+        "text_position": "2",
+        "text_position_mobile": "2",
+        "button": "",
+        "button_url": "shopify://collections/august-sabbe-aluspesu",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_align": "center",
+        "button_align_mobile": "center",
+        "button_mt": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 26,
+        "button_padding_horizontal_mobile": 26,
+        "button_radius": 32,
+        "button_border_thickness": 0,
+        "button_use_arrow": false,
+        "button_position": "4",
+        "button_position_mobile": "4",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#2f7d39",
+        "button_bg_hover_color": "#3e974a",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "media_border_color": "#000000",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "ss_video_with_text_3_8XPkiA": {
+      "type": "ss-video-with-text-3",
+      "settings": {
+        "media": "video",
+        "image": "shopify://shop_images/august_sabbe.gif",
+        "video": "shopify://files/videos/Sabbe video 2, formaat teine tegin sisu ymber ka.mov",
+        "video_url": "",
+        "media_width": 50,
+        "media_width_mobile": 100,
+        "media_position": "first",
+        "media_position_mobile": "first",
+        "media_ratio": "portrait",
+        "media_ratio_mobile": "portrait",
+        "media_border_thickness": 0,
+        "media_radius": 0,
+        "controls": true,
+        "autoplay": true,
+        "loop": true,
+        "content_padding_vertical": 32,
+        "content_padding_vertical_mobile": 12,
+        "content_padding_horizontal": 100,
+        "content_padding_horizontal_mobile": 12,
+        "heading": "<h2>August Sabbe</h2>",
+        "heading_custom": true,
+        "heading_font": "inter_n6",
+        "heading_size": 50,
+        "heading_size_mobile": 40,
+        "heading_height": 110,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "heading_position": "1",
+        "heading_position_mobile": "1",
+        "sub_heading": "<h4><strong>Eesti rahva kangelane. Mees, kes inspireerib ja annab jõudu tänastele Eesti meestele!</strong></h4>",
+        "sub_heading_custom": true,
+        "sub_heading_font": "inter_n6",
+        "sub_heading_size": 18,
+        "sub_heading_size_mobile": 18,
+        "sub_heading_height": 150,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "sub_heading_mt": 16,
+        "sub_heading_position": "3",
+        "sub_heading_position_mobile": "2",
+        "text": "<p>August Sabbe (1909 – 1978) oli Eesti viimaseks metsavennaks peetav mees, kes langes Paidra ja Leevi küla lähedal okupantide arreteerimiskatsel, uputades end Võhandu jõkke.</p>",
+        "text_custom": true,
+        "text_font": "inter_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_align": "center",
+        "text_align_mobile": "center",
+        "text_mt": 40,
+        "text_position": "2",
+        "text_position_mobile": "2",
+        "button": "Vaata Sabbe elulugu",
+        "button_url": "shopify://pages/august-sabbest",
+        "button_custom": true,
+        "button_font": "inter_n4",
+        "button_size": 16,
+        "button_size_mobile": 16,
+        "button_height": 100,
+        "button_align": "center",
+        "button_align_mobile": "center",
+        "button_mt": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 26,
+        "button_padding_horizontal_mobile": 26,
+        "button_radius": 32,
+        "button_border_thickness": 0,
+        "button_use_arrow": false,
+        "button_position": "4",
+        "button_position_mobile": "3",
+        "button_color": "#121212",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#f3f3f3",
+        "button_bg_hover_color": "#121212",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "media_border_color": "#000000",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "rich_text_RJ3hce": {
+      "type": "rich-text",
+      "blocks": {
+        "button_d7zHew": {
+          "type": "button",
+          "settings": {
+            "button_label": "HAARA SABBED SIIT",
+            "button_link": "shopify://collections/august-sabbe-aluspesu",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_d7zHew"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-7225ebb2-37ae-4ae3-8c7a-8c45c12b4672",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_xtYmm7": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
+        " /* Align all text to center */p,span,div {text-align: center;}"
+      ],
+      "settings": {
+        "title": "Sabbe igapäev",
+        "heading_size": "h1",
+        "description": "<p>Mugavad, pehmed ja hingavad.</p>",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "sabbe-igapaev",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_Y3k4UJ": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
+        " /* Align all text to center */p,span,div {text-align: center;}"
+      ],
+      "settings": {
+        "title": "Sabbe sport",
+        "heading_size": "h1",
+        "description": "<p>Töö- ja trennimehed kiidavad!</p><p>Parim valik meestele, kes ei passi niisama. 💪</p>",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "sabbe-sport",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_natnQq": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
+        " /* Align all text to center */p,span,div {text-align: center;}"
+      ],
+      "settings": {
+        "title": "Sabbe pidupäev",
+        "heading_size": "h1",
+        "description": "<p>Naudi luksuslikku siidist pehmust.</p><p>Ole tegudemees nii pidupäeval kui ka hallil argipäeval! </p><p>Valmistatud modaalkangast, mis on keskkonnasõbralik ja jätkusuutlik materjal.</p>",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "sabbe-pidupaev",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_YRra9z": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
+        " /* Align all text to center */p,span,div {text-align: center;}"
+      ],
+      "settings": {
+        "title": "Sabbe 6-pakid",
+        "heading_size": "h1",
+        "description": "<p>Parim hind</p>",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "sabbe-6-pakid",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_mLcXcq": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
+        " /* Align all text to center */p,span,div {text-align: center;}"
+      ],
+      "settings": {
+        "title": "Sabbe 3-pakid",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": true,
+        "description_style": "subtitle",
+        "collection": "sabbe-3-packs",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_KPXdYE": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
+        " /* Align all text to center */p,span,div {text-align: center;}"
+      ],
+      "settings": {
+        "title": "Sabbe ükssarvikud",
+        "heading_size": "h1",
+        "description": "<p>Soovi korral võid Sabbesid ka ühe kaupa osta. :)</p>",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "sabbe-1-packs",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_n7qae8": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+        ".responsive-video {width: 100%; aspect-ratio: 16 / 9; height: auto;}"
+      ],
+      "settings": {
+        "custom_liquid": "<iframe class=\"responsive-video\" width=\"560\" height=\"315\" src=\"https://youtube.com/shorts/CKJMNv6oDM8?si=Z-vIY6pve9x3HIip\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "video_pXAGpg": {
+      "type": "video",
+      "disabled": true,
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "heading": "Naised üle maailma kiidavad Sabbesid!",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/Sexiest_underwearbrand.mp4",
+        "video_url": "",
+        "cover_image": "shopify://shop_images/Capture.png",
+        "description": "Women Around The World Love August Sabbe",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_7p3ry7": {
+      "type": "rich-text",
+      "blocks": {
+        "button_w7gLbb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Mehed",
+            "button_link": "shopify://collections/august-sabbe-aluspesu",
+            "button_style_secondary": false,
+            "button_label_2": "Naised",
+            "button_link_2": "shopify://collections/sabbe-naiste-pesu",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "button_w7gLbb"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-7225ebb2-37ae-4ae3-8c7a-8c45c12b4672",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner_CM69qn",
+    "image_banner",
+    "1707920639bf90b5a3",
+    "collection_list_pP7VHQ",
+    "featured_collection_E4CyEf",
+    "1718042186e42c5126",
+    "ss_video_with_text_3_EVP9pX",
+    "ss_video_with_text_3_8XPkiA",
+    "rich_text_RJ3hce",
+    "featured_collection_xtYmm7",
+    "featured_collection_Y3k4UJ",
+    "featured_collection_natnQq",
+    "featured_collection_YRra9z",
+    "featured_collection_mLcXcq",
+    "featured_collection_KPXdYE",
+    "custom_liquid_n7qae8",
+    "video_pXAGpg",
+    "rich_text_7p3ry7"
+  ]
+}

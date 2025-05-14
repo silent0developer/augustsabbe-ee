@@ -1,0 +1,397 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "ss_video_with_text_3_36mWtz": {
+      "type": "ss-video-with-text-3",
+      "settings": {
+        "media": "video",
+        "video": "shopify://files/videos/Sabbe video 2, formaat teine tegin sisu ymber ka.mov",
+        "video_url": "",
+        "poster": "shopify://shop_images/august_sabbe.gif",
+        "media_width": 50,
+        "media_width_mobile": 100,
+        "media_position": "first",
+        "media_position_mobile": "first",
+        "media_ratio": "portrait",
+        "media_ratio_mobile": "portrait",
+        "media_border_thickness": 0,
+        "media_radius": 0,
+        "controls": true,
+        "autoplay": true,
+        "loop": true,
+        "content_padding_vertical": 32,
+        "content_padding_vertical_mobile": 12,
+        "content_padding_horizontal": 100,
+        "content_padding_horizontal_mobile": 12,
+        "heading": "<h2>August Sabbe</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 40,
+        "heading_height": 110,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "heading_position": "1",
+        "heading_position_mobile": "1",
+        "sub_heading": "<p><strong>Eesti rahva kangelane. </strong></p><p><strong>Mees, kes inspireerib ja annab jõudu tänastele Eesti meestele!</strong></p>",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 18,
+        "sub_heading_size_mobile": 18,
+        "sub_heading_height": 150,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "sub_heading_mt": 16,
+        "sub_heading_position": "3",
+        "sub_heading_position_mobile": "2",
+        "text": "<p>August Sabbe (1909 – 1978) oli Eesti viimaseks metsavennaks peetav mees, kes langes Paidra ja Leevi küla lähedal okupantide arreteerimiskatsel, uputades end Võhandu jõkke.</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_align": "center",
+        "text_align_mobile": "center",
+        "text_mt": 40,
+        "text_position": "2",
+        "text_position_mobile": "4",
+        "button": "Osta Sabbed siit!",
+        "button_url": "shopify://collections/august-sabbe-aluspesu",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 18,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_align": "center",
+        "button_align_mobile": "center",
+        "button_mt": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 26,
+        "button_padding_horizontal_mobile": 26,
+        "button_radius": 32,
+        "button_border_thickness": 0,
+        "button_use_arrow": true,
+        "button_position": "4",
+        "button_position_mobile": "3",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#334fb4",
+        "button_bg_hover_color": "#213066",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "media_border_color": "#000000",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "video_XNxMak": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/sabbe kes oli sabbe video.mp4",
+        "video_url": "",
+        "description": "About August Sabbe",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+        "h1 {text-align: center;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "ss_timeline_3_NgttBg": {
+      "type": "ss-timeline-3",
+      "blocks": {
+        "item_UegMpe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/august_sabbe_sunnikpula_paidra_kaart.png",
+            "hide_image": false,
+            "heading": "<h3>Palo talus Võrumaal sündis August Sabbe</h3>",
+            "text": "<p>August sündis 1. septembril 1909. aastal pere (isa Jaan Hindriku poeg Sabe ja ema Katri Sabe (sündinud Nassar)) noorima lapsena. Tal olid vennad Rudolf ja Heinrich ning õde Hilda. Lapsepõlv läks mööda Võhandu jõe ääres</p>"
+          }
+        },
+        "item_JGAiAD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/vabadussoda.jpg",
+            "hide_image": false,
+            "heading": "<h3>Perekond Sabbed isamaad kaitsmas</h3>",
+            "text": "<p>Eesti Vabadussõja alguses läksid Augusti mõlemad vennad Eesti iseseisvuse eest sõdima. Vend Heinrich langes 1919. aastal, olles Eesti ratsaväe koosseisus. Teine vend Rudolf tuli aga sõjast eluga tagasi ning temast sai Vabadusristi kavaler. </p><p>Pärast Kaitseväes aja teenimist liitus August Sabbe ka Eesti Kaitseliiduga, kus oli Lasva-Pindi ratsaeskadroni 2. rühmas.</p>"
+          }
+        },
+        "item_ewRcPV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/suvi_tonisson.webp",
+            "hide_image": false,
+            "heading": "<h3>August Sabbest sai Palo talu peremees</h3>",
+            "text": "<p>Kui isa 1930. aastal suri, tuli Augustil talu üle võtta.</p><p>Tööd oli kõvasti, ajad polnud kerged, aga siiski oma talu, oma maa!</p>"
+          }
+        },
+        "item_pAFVLp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/fog-and-mist-over-forest-trees.jpg",
+            "hide_image": false,
+            "heading": "<h3>August põgenes Vene okupatsiooni eest metsa</h3>",
+            "text": "<p>Kui algas Vene okupatsioon ja II maailmasõda, taheti palju noori mehi Vene sõjaväkke. Nagu paljud teised Eesti poisid, otsustas ka August Vene armee asemel valida metsamineku. </p><p>Koos paljude teiste kaaslastega vallutati 1941. aastal punaste kontrolli all olnud Lasva rahvamaja.</p>"
+          }
+        },
+        "item_JMrLec": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/pexels-bob-price-252175-764880_2.jpg",
+            "hide_image": false,
+            "heading": "<h3>Saksa okupatsiooni ajal tuli August metsast välja</h3>",
+            "text": "<p>Sõja ajal sai aga juhuslikust pommikillust haavata Augusti ema Katri. Nüüd polnud Augustil enam mitte ühtegi pereliiget.</p><p>Ajad olid rasked.</p>"
+          }
+        },
+        "item_wTPjki": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/thick-lush-green-forest.jpg",
+            "hide_image": false,
+            "heading": "<h3>August põgenes taas Vene okupantide eest metsa</h3>",
+            "text": "<p>Kui Nõukogude okupandid saksa okupantide vastu vahetusid, siis koheselt kuulutati välja meeste mobilisatsiooni sõjaväkke. Selle peale läks August uuesti ennast metsa varjama.</p>"
+          }
+        },
+        "item_ieFCfR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/paidra_veski_mustvalge.jpg",
+            "hide_image": false,
+            "heading": "<h3>August Sabbe meelitati metsast välja tulema</h3>",
+            "text": "<p>1945. aastal lubati kõigil kellel polnud \"veresüüd\" kaelas metsast välja tulla. Nii tegi ka tema ja hakkas tegema Paidra külas veskitööd. Veskis võeti aga August kinni ja viidi julgeolekusse, kus talle pandi agendinimeks \"Jaan\". Tema ülesandeks sai üles otsida tuntud metsavendade salk, kuhu kuulusid Jaan Roots, Arnold Kakko ja Paul Randmaa, ning tuua nad julgeolekusse. August aga põgenes agenditöö asemel uuesti metsa.</p>"
+          }
+        },
+        "item_Epaihg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/jaan_rootsi_salk.gif",
+            "hide_image": false,
+            "heading": "<h3>August liitus Rootsi salga tagalameeskonnaga</h3>",
+            "text": "<p>1950. aastal sai August just selle salga liikmeks, mida tal kästi julgeolekusse viia. Mehed varjasid ennast Suure Taevaskoja ligidal metsas, punkris. Ta kuulus Rootsi salga nn. tagalameeskonda, kuna ta hoolitses söögi ja varustuse eest. </p>"
+          }
+        },
+        "item_QHMVHR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/sunrise-bursts-through-forest-trees.jpg",
+            "hide_image": false,
+            "heading": "<h3>August hakkas end üksinda metsas varjama</h3>",
+            "text": "<p>Jaan Roots koos oma salgaga sai surma Räpina lähedal Ristipalos 1952. aastal.</p><p>Pärast seda hakkas August ennast üksinda varjama. Enamasti varjas ta ennas Võrumaa ja Põlvamaa metsades, Pindi, Paidra ja Leevi külade lähedal. Augustit otsis nii Põlva kui ka Võru KGB.</p>"
+          }
+        },
+        "item_PbWQVU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/august_sabbe_86113f6b-9f91-4d69-bb20-f4a2cbe58ffa.jpg",
+            "hide_image": false,
+            "heading": "<h3>August Sabbe hukkumine</h3>",
+            "text": "<p>Pärast pikki 33 aastat kestnud otsinguid leiti ta lõpuks Võhandu jõe äärest, kus KGB ohvitser Ervin Oras ja SORVVO inspektor Neeme Taavel ennast samuti kalameesteks riietasid. Alanud rüseluses õnnestus Augustil jõkke hüpata ja seal ennast ära uputada. Võimalik on ka, et ta uputati ära. Ta uppus 28. septembril 1978. aastal. August Sabbe maeti Tartus Raadi kalmistule.</p>"
+          }
+        },
+        "item_yBwghF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/sabbe_malestustahvel.jpg",
+            "hide_image": false,
+            "heading": "<h3>August Sabbe mälestuskivi</h3>",
+            "text": "<p>August Sabbele on püstitatud mälestuskivi tema langemiskohas Võhandu jõe ääres. </p><p>1998. aastal paigutati graniidist hauakivi Sabbe kalmule Tartu Maarja kalmistul.</p>"
+          }
+        },
+        "item_d7icKn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/sabbesports5.webp",
+            "hide_image": false,
+            "heading": "<h3>Sündis August Sabbe bränd</h3>",
+            "text": "<p>August Sabbe lugu oli nõnda inspireeriv, et Võrumaa mehed otsustasid luua meeste riiete brändi, mis kannaks Eesti rahva kangelase nime. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_UegMpe",
+        "item_JGAiAD",
+        "item_ewRcPV",
+        "item_pAFVLp",
+        "item_JMrLec",
+        "item_wTPjki",
+        "item_ieFCfR",
+        "item_Epaihg",
+        "item_QHMVHR",
+        "item_PbWQVU",
+        "item_yBwghF",
+        "item_d7icKn"
+      ],
+      "settings": {
+        "heading": "<h2>Sabbe ajajoon</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 46,
+        "heading_size_mobile": 28,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "items_mt": 60,
+        "items_mt_mobile": 40,
+        "items_space": 26,
+        "items_space_mobile": 26,
+        "content_padding_horizontal": 48,
+        "content_padding_horizontal_mobile": 48,
+        "circle_size": 32,
+        "circle_size_mobile": 20,
+        "circle_border_thickness": 1,
+        "image_width": 50,
+        "image_width_mobile": 50,
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "original",
+        "image_ratio_mobile": "original",
+        "image_align": "center",
+        "image_align_mobile": "center",
+        "item_heading_custom": false,
+        "item_heading_font": "josefin_sans_n4",
+        "item_heading_size": 32,
+        "item_heading_size_mobile": 20,
+        "item_heading_height": 130,
+        "item_heading_mt": 16,
+        "item_heading_mt_mobile": 16,
+        "item_heading_align": "left",
+        "item_heading_align_mobile": "left",
+        "item_text_custom": false,
+        "item_text_font": "josefin_sans_n4",
+        "item_text_size": 21,
+        "item_text_size_mobile": 16,
+        "item_text_height": 170,
+        "item_text_mt": 16,
+        "item_text_mt_mobile": 16,
+        "item_text_align": "left",
+        "item_text_align_mobile": "left",
+        "line_color": "#000000",
+        "circle_bg_color": "#e3e3e3",
+        "circle_border_color": "#000000",
+        "item_heading_color": "#000000",
+        "item_text_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "image_with_text_7YGCDg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Qi7PVq": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Qi7PVq"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/august_sabbe.gif",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_UTbnNk": {
+      "type": "rich-text",
+      "blocks": {
+        "button_RJmWja": {
+          "type": "button",
+          "settings": {
+            "button_label": "Osta Sabbed siit",
+            "button_link": "shopify://collections/august-sabbe-aluspesu",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_RJmWja"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "ss_video_with_text_3_36mWtz",
+    "video_XNxMak",
+    "main",
+    "ss_timeline_3_NgttBg",
+    "image_with_text_7YGCDg",
+    "rich_text_UTbnNk"
+  ]
+}

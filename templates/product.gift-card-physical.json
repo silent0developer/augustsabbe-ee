@@ -140,7 +140,6 @@
         },
         "collapsible_tab_XFnybm": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Kohaletoimetamine 1 päev",
             "icon": "plane",

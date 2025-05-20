@@ -12,6 +12,8 @@ class FacetFiltersForm extends HTMLElement {
 
     const facetWrapper = this.querySelector('#FacetsWrapperDesktop');
     if (facetWrapper) facetWrapper.addEventListener('keyup', onKeyUpEscape);
+
+    FacetFiltersForm.renderPage(window.location.search.replace('?', ''), null, true);
   }
 
   static setListeners() {
@@ -30,6 +32,9 @@ class FacetFiltersForm extends HTMLElement {
   }
 
   static renderPage(searchParams, event, updateURLHash = true) {
+    if(!searchParams) searchParams = 'filter.v.availability=1';
+    else if(searchParams.indexOf('filter.v.availability=1') == -1) searchParams += '&filter.v.availability=1';
+    console.log(searchParams)
     FacetFiltersForm.searchParamsPrev = searchParams;
     const sections = FacetFiltersForm.getSections();
     const countContainer = document.getElementById('ProductCount');

@@ -157,16 +157,16 @@
         },
         "collapsible_tab_ejUL68": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Mis saab kui suurus on vale?",
+            "heading": "Oeko-Tex® sertifikaadiga materjalid",
             "icon": "recycle",
-            "content": "<p>98% meie klientidest tellivad õige suuruse. Kui juhtub, et tellitud suurus ikkagi on väike või vastupidi - liialt suur, siis palun andke meile sellest teada ning saadame teile uued Sabbed.<br/><br/>NB! Me mitte mingil juhul ei müü edasi jalga proovitud Sabbesid, mis on meile tagastatud. ;)</p>",
-            "page": ""
+            "content": "",
+            "page": "oeko-tex®-sertifikaadiga-materjalid"
           }
         },
         "collapsible_tab_YwMDUR": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Oeko-Tex® sertifikaadiga materjalid",
             "icon": "recycle",

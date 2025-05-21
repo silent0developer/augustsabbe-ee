@@ -142,7 +142,7 @@
           "settings": {
             "heading": "Kohaletoimetamine 1 päev",
             "icon": "plane",
-            "content": "<p><span style=\"text-decoration:underline\">Üle €69 tellimustele tasuta kohaletoimetamine!</span></p><p><strong>Eesti (kõik pakiautomaadid)</strong><br/>1-2 päeva, €2.49<br/>Kui tellid enne kell 14, siis suure tõenäosusega on pakk kohal juba järgmine tööpäev. <br/>Smartpost ja Omniva toovad paki kohale ka nädalavahetusel. </p><p><strong>Soome (pakiautomaadid)</strong><br/>2-3 päeva, €4.99<br/><br/><strong>Euroopa Liit</strong><br/>3-5 päeva, €9.15<br/><br/><strong>USA & Kanada</strong><br/>5-7 päeva, €9.99<br/><br/><strong>Muu maailm</strong><br/>5-7 päeva, €9.99</p>",
+            "content": "",
             "page": "kohaletoimetamine"
           }
         },
@@ -151,7 +151,7 @@
           "settings": {
             "heading": "Millist suurust valida?",
             "icon": "ruler",
-            "content": "<p>Võta julgelt oma tavaline suurus. 98% meie klientidest on rahul tellitud suurusega, sest Sabbed on toodetud samas mõõdus nagu teiste tuntud pesubrändide tooted. <br/><br/>Samas kui soovid täit kindlust, siis mõõda oma vööümbermõõt ning kasuta allolevat tabelit õige suuruse valimiseks.<br/><br/>XS: 76 cm<br/>S: 82 cm<br/>M: 88 cm<br/>L: 94 cm<br/>XL: 100 cm<br/>XXL: 106 cm</p>",
+            "content": "",
             "page": "millist-suurust-valida"
           }
         },
@@ -171,7 +171,7 @@
             "heading": "Oeko-Tex® sertifikaadiga materjalid",
             "icon": "recycle",
             "content": "",
-            "page": ""
+            "page": "oeko-tex®-sertifikaadiga-materjalid"
           }
         },
         "candy_rack_product_placement_button_9ADLmC": {

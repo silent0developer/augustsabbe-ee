@@ -142,8 +142,8 @@
           "settings": {
             "heading": "Kohaletoimetamine 1 päev",
             "icon": "plane",
-            "content": "<p><span style=\"text-decoration:underline\">Üle €69 tellimustele tasuta kohaletoimetamine!</span></p><p><strong>Eesti (kõik pakiautomaadid)</strong><br/>1-2 päeva, €2.49<br/>Kui tellid enne kell 14, siis suure tõenäosusega on pakk kohal juba järgmine tööpäev. <br/>Smartpost ja Omniva toovad paki kohale ka nädalavahetusel. </p><p><strong>Soome (pakiautomaadid)</strong><br/>2-3 päeva, €4.99<br/><br/><strong>Euroopa Liit</strong><br/>3-5 päeva, €9.15<br/><br/><strong>USA & Kanada</strong><br/>5-7 päeva, €9.99<br/><br/><strong>Muu maailm</strong><br/>5-7 päeva, €9.99</p>",
-            "page": ""
+            "content": "",
+            "page": "kohaletoimetamine"
           }
         },
         "collapsible_tab_R96Dn3": {

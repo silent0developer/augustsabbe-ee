@@ -152,15 +152,25 @@
             "heading": "Millist suurust valida?",
             "icon": "ruler",
             "content": "<p>Võta julgelt oma tavaline suurus. 98% meie klientidest on rahul tellitud suurusega, sest Sabbed on toodetud samas mõõdus nagu teiste tuntud pesubrändide tooted. <br/><br/>Samas kui soovid täit kindlust, siis mõõda oma vööümbermõõt ning kasuta allolevat tabelit õige suuruse valimiseks.<br/><br/>XS: 76 cm<br/>S: 82 cm<br/>M: 88 cm<br/>L: 94 cm<br/>XL: 100 cm<br/>XXL: 106 cm</p>",
-            "page": ""
+            "page": "millist-suurust-valida"
           }
         },
         "collapsible_tab_ejUL68": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Mis saab kui suurus on vale?",
             "icon": "recycle",
             "content": "<p>98% meie klientidest tellivad õige suuruse. Kui juhtub, et tellitud suurus ikkagi on väike või vastupidi - liialt suur, siis palun andke meile sellest teada ning saadame teile uued Sabbed.<br/><br/>NB! Me mitte mingil juhul ei müü edasi jalga proovitud Sabbesid, mis on meile tagastatud. ;)</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_YwMDUR": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Oeko-Tex® sertifikaadiga materjalid",
+            "icon": "recycle",
+            "content": "<p>Kasutame oma toodete valmistamiseks Oeko-Tex® sertifikaadiga materjale, mis tagab, et meie rõivad on keskkonnasõbralikud ja ohutud sinu nahale.  Oeko-Tex® sertifikaadiga tekstiilid on testitud kahjulike ainete suhtes ning vastavad rangeimatele rahvusvahelistele standarditele.</p>",
             "page": ""
           }
         },
@@ -201,6 +211,7 @@
         "collapsible_tab_XFnybm",
         "collapsible_tab_R96Dn3",
         "collapsible_tab_ejUL68",
+        "collapsible_tab_YwMDUR",
         "candy_rack_product_placement_button_9ADLmC"
       ],
       "custom_css": [],
@@ -217,7 +228,9 @@
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 12
+        "padding_bottom": 12,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 8
       }
     },
     "related-products": {
@@ -294,6 +307,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "accent-1",
+        "color_scheme_mobile": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,

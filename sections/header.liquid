@@ -170,10 +170,25 @@
                 {% capture sizes %}(max-width: {{ settings.logo_width | times: 2 }}px) 50vw, {{ settings.logo_width }}px{% endcapture %}
                 {% capture widths %}{{ settings.logo_width }}, {{ settings.logo_width | times: 1.5 | round }}, {{ settings.logo_width | times: 2 }}{% endcapture %}
                 {{ settings.logo | image_url: width: 600 | image_tag:
-                  class: 'header__heading-logo motion-reduce',
+                  class: 'header__heading-logo motion-reduce small-hide',
                   widths: widths,
                   height: logo_height,
                   width: settings.logo_width,
+                  alt: logo_alt,
+                  sizes: sizes,
+                  preload: true
+                }}
+
+                {%- assign logo_mobile = settings.logo_mobile | default: settings.logo -%}
+                {%- assign logo_alt = logo_mobile.alt | default: shop.name | escape -%}
+                {%- assign logo_height = settings.logo_width_mobile | divided_by: logo_mobile.aspect_ratio -%}
+                {% capture sizes %}(max-width: {{ settings.logo_width_mobile | times: 2 }}px) 50vw, {{ settings.logo_width_mobile }}px{% endcapture %}
+                {% capture widths %}{{ settings.logo_width_mobile }}, {{ settings.logo_width_mobile | times: 1.5 | round }}, {{ settings.logo_width_mobile | times: 2 }}{% endcapture %}
+                {{ logo_mobile | image_url: width: 600 | image_tag:
+                  class: 'header__heading-logo motion-reduce medium-hide large-up-hide',
+                  widths: widths,
+                  height: logo_height,
+                  width: settings.logo_width_mobile,
                   alt: logo_alt,
                   sizes: sizes,
                   preload: true
@@ -210,10 +225,25 @@
                 {% capture sizes %}(min-width: 750px) {{ settings.logo_width }}px, 50vw{% endcapture %}
                 {% capture widths %}{{ settings.logo_width }}, {{ settings.logo_width | times: 1.5 | round }}, {{ settings.logo_width | times: 2 }}{% endcapture %}
                 {{ settings.logo | image_url: width: 600 | image_tag:
-                  class: 'header__heading-logo',
+                  class: 'header__heading-logo small-hide',
                   widths: widths,
                   height: logo_height,
                   width: settings.logo_width,
+                  alt: logo_alt,
+                  sizes: sizes,
+                  preload: true
+                }}
+
+                {%- assign logo_mobile = settings.logo_mobile | default: settings.logo -%}
+                {%- assign logo_alt = logo_mobile.alt | default: shop.name | escape -%}
+                {%- assign logo_height = settings.logo_width_mobile | divided_by: logo_mobile.aspect_ratio -%}
+                {% capture sizes %}(min-width: 750px) {{ settings.logo_width_mobile }}px, 50vw{% endcapture %}
+                {% capture widths %}{{ settings.logo_width_mobile }}, {{ settings.logo_width_mobile | times: 1.5 | round }}, {{ settings.logo_width_mobile | times: 2 }}{% endcapture %}
+                {{ logo_mobile | image_url: width: 600 | image_tag:
+                  class: 'header__heading-logo medium-hide large-up-hide',
+                  widths: widths,
+                  height: logo_height,
+                  width: settings.logo_width_mobile,
                   alt: logo_alt,
                   sizes: sizes,
                   preload: true

@@ -43,10 +43,11 @@
         "text_yMjG7n",
         "buttons_BwqGfV"
       ],
-      "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/3.webp",
+        "image": "shopify://shop_images/drell_banner.jpg",
+        "image_link": "shopify://collections/august-sabbe-aluspesu",
         "image_2": "shopify://shop_images/women_banner.jpg",
+        "image_link_2": "shopify://collections/sabbe-naiste-pesu",
         "image_overlay_opacity": 20,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -97,7 +98,9 @@
       "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG_3870.jpg",
+        "image_link": "",
         "image_2": "shopify://shop_images/0E3A4896.jpg",
+        "image_link_2": "",
         "image_overlay_opacity": 20,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",

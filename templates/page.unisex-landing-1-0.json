@@ -82,7 +82,7 @@
       ],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "#sabbewomen",
+        "title": "Sabbe naiste ihupesu",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -114,7 +114,7 @@
       ],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "Meeste ihupesu ja t-särgid",
+        "title": "Sabbe meeste ihupesu ja t-särgid",
         "heading_size": "h1",
         "description": "",
         "show_description": false,

@@ -80,7 +80,7 @@
         "h2 {text-align: center;}"
       ],
       "settings": {
-        "title": "Sabbe naiste ihupesu",
+        "title": "#sabbewomen",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -143,7 +143,7 @@
         ".collection-list-wrapper .title-wrapper-with-link {justify-content: center; text-align: center;}"
       ],
       "settings": {
-        "title": "#sabbesalk meeste ihupesu",
+        "title": "#sabbesalk meeste pesu",
         "heading_size": "h1",
         "image_ratio": "portrait",
         "columns_desktop": 4,

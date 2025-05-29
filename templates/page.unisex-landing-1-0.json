@@ -66,7 +66,7 @@
         "description_style": "body",
         "collection": "sabbe-top-3-valikut",
         "products_to_show": 6,
-        "columns_desktop": 6,
+        "columns_desktop": 3,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "outline",

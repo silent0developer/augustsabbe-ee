@@ -156,19 +156,19 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_3zegUM": {
+    "featured_collection_bhbckF": {
       "type": "featured-collection",
       "custom_css": [
         "h2 {text-align: center;}"
       ],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "#sabbesalk meeste särgid",
+        "title": "#sabbesalk meeste top 3 toodet",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "sabbe-sargid",
+        "collection": "sabbe-top-3-valikut",
         "products_to_show": 3,
         "columns_desktop": 3,
         "full_width": false,
@@ -188,14 +188,14 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_bhbckF": {
+    "featured_collection_3zegUM": {
       "type": "featured-collection",
       "custom_css": [
         "h2 {text-align: center;}"
       ],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "#sabbesalk meeste top 3 toodet",
+        "title": "#sabbesalk meeste särgid",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -203,7 +203,7 @@
         "collection": "sabbe-sargid",
         "products_to_show": 3,
         "columns_desktop": 3,
-        "full_width": true,
+        "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
@@ -249,8 +249,8 @@
     "image_banner_3fqeeU",
     "featured_collection_czzbm9",
     "collection_list_HFTBHN",
-    "featured_collection_3zegUM",
     "featured_collection_bhbckF",
+    "featured_collection_3zegUM",
     "17485311380436fd61"
   ]
 }

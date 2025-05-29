@@ -59,9 +59,9 @@
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/drell_banner.jpg",
-        "image_link": "",
+        "image_link": "shopify://collections/august-sabbe-aluspesu",
         "image_2": "shopify://shop_images/women_banner.jpg",
-        "image_link_2": "",
+        "image_link_2": "shopify://collections/sabbe-naiste-pesu",
         "image_overlay_opacity": 20,
         "image_height": "large",
         "desktop_content_position": "middle-center",

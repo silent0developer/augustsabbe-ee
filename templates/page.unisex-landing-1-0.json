@@ -62,7 +62,7 @@
         "image_link": "",
         "image_2": "shopify://shop_images/women_banner.jpg",
         "image_link_2": "",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 20,
         "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,

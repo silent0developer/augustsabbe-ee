@@ -142,7 +142,6 @@
       "custom_css": [
         ".collection-list-wrapper .title-wrapper-with-link {justify-content: center; text-align: center;}"
       ],
-      "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "#sabbesalk meeste ihupesu",
         "heading_size": "h1",
@@ -161,7 +160,6 @@
       "custom_css": [
         "h2 {text-align: center;}"
       ],
-      "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "#sabbesalk meeste top 3 toodet",
         "heading_size": "h1",
@@ -193,9 +191,8 @@
       "custom_css": [
         "h2 {text-align: center;}"
       ],
-      "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "#sabbesalk meeste särgid",
+        "title": "#sabbesalk meeste t-särgid",
         "heading_size": "h1",
         "description": "",
         "show_description": false,

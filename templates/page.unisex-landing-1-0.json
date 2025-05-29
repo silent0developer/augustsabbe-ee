@@ -105,31 +105,44 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_KHaTee": {
-      "type": "featured-collection",
+    "collection_list_HFTBHN": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_xpK9HR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-igapaev"
+          }
+        },
+        "featured_collection_tMmr3j": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-sport"
+          }
+        },
+        "featured_collection_mBA64D": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-pidupaev"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_xpK9HR",
+        "featured_collection_tMmr3j",
+        "featured_collection_mBA64D"
+      ],
       "custom_css": [
         "h2 {text-align: center;}"
       ],
+      "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "Sabbe meeste ihupesu",
         "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "sabbe-top-3-valikut",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
         "image_ratio": "portrait",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "standard",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -164,7 +177,7 @@
     "main",
     "image_banner_3fqeeU",
     "featured_collection_czzbm9",
-    "featured_collection_KHaTee",
+    "collection_list_HFTBHN",
     "17485311380436fd61"
   ]
 }

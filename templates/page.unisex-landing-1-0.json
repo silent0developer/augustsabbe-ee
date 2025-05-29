@@ -56,7 +56,6 @@
         "text_gTTRt4",
         "buttons_YUyPEJ"
       ],
-      "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/drell_banner.jpg",
         "image_link": "shopify://collections/august-sabbe-aluspesu",
@@ -80,7 +79,6 @@
       "custom_css": [
         "h2 {text-align: center;}"
       ],
-      "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Sabbe naiste ihupesu",
         "heading_size": "h1",
@@ -112,7 +110,6 @@
       "custom_css": [
         "h2 {text-align: center;}"
       ],
-      "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Sabbe meeste ihupesu ja t-särgid",
         "heading_size": "h1",
@@ -120,8 +117,8 @@
         "show_description": false,
         "description_style": "body",
         "collection": "sabbe-top-3-valikut",
-        "products_to_show": 6,
-        "columns_desktop": 3,
+        "products_to_show": 8,
+        "columns_desktop": 4,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "outline",

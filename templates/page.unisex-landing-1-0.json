@@ -161,13 +161,13 @@
         "h2 {text-align: center;}"
       ],
       "settings": {
-        "title": "#sabbesalk meeste top 4",
+        "title": "#sabbesalk lemmikud!",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "sabbe-top-3-valikut",
-        "products_to_show": 3,
+        "products_to_show": 4,
         "columns_desktop": 3,
         "full_width": false,
         "show_view_all": true,

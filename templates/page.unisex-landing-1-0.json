@@ -125,22 +125,29 @@
           "settings": {
             "collection": "sabbe-pidupaev"
           }
+        },
+        "featured_collection_VGnn3a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "henri-drell-august-sabbe"
+          }
         }
       },
       "block_order": [
         "featured_collection_xpK9HR",
         "featured_collection_tMmr3j",
-        "featured_collection_mBA64D"
+        "featured_collection_mBA64D",
+        "featured_collection_VGnn3a"
       ],
       "custom_css": [
-        "h2 {text-align: center;}"
+        ".collection-list-wrapper .title-wrapper-with-link {justify-content: center; text-align: center;}"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "Sabbe meeste ihupesu",
         "heading_size": "h1",
         "image_ratio": "portrait",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",

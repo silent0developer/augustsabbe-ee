@@ -27,7 +27,7 @@
           "type": "heading",
           "settings": {
             "heading": "Tugevad loovad häid aegu",
-            "heading_size": "h0"
+            "heading_size": "hxl"
           }
         },
         "text_gTTRt4": {
@@ -61,7 +61,7 @@
         "image_link": "shopify://collections/august-sabbe-aluspesu",
         "image_2": "shopify://shop_images/women_banner.jpg",
         "image_link_2": "shopify://collections/sabbe-naiste-pesu",
-        "image_overlay_opacity": 10,
+        "image_overlay_opacity": 30,
         "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -99,7 +99,7 @@
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "standard",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
@@ -150,7 +150,7 @@
         "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36

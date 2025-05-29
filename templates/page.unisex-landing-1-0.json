@@ -26,12 +26,13 @@
         "heading_Nqxfkm": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
+            "heading": "Tugevad loovad häid aegu",
+            "heading_size": "h0"
           }
         },
         "text_gTTRt4": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
@@ -39,6 +40,7 @@
         },
         "buttons_YUyPEJ": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Button label",
             "button_link_1": "",
@@ -61,16 +63,16 @@
         "image_2": "shopify://shop_images/women_banner.jpg",
         "image_link_2": "",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "color_scheme_mobile": "",
+        "color_scheme": "scheme-3",
+        "color_scheme_mobile": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "featured_collection_czzbm9": {

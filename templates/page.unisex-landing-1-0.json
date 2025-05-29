@@ -20,6 +20,59 @@
         "padding_bottom": 28
       }
     },
+    "image_banner_3fqeeU": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Nqxfkm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_gTTRt4": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_YUyPEJ": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Nqxfkm",
+        "text_gTTRt4",
+        "buttons_YUyPEJ"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/drell_banner.jpg",
+        "image_link": "",
+        "image_2": "shopify://shop_images/women_banner.jpg",
+        "image_link_2": "",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "color_scheme_mobile": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "featured_collection_czzbm9": {
       "type": "featured-collection",
       "custom_css": [
@@ -87,6 +140,7 @@
   },
   "order": [
     "main",
+    "image_banner_3fqeeU",
     "featured_collection_czzbm9",
     "featured_collection_KHaTee"
   ]

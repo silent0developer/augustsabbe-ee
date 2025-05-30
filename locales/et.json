@@ -981,7 +981,7 @@
         "amazon_payments_failed_mfa_challenge": "Valitud makseviisi ei saanud kasutada. Valige mõni muu meetod või võtke ühendust panga või kaardi väljaandjaga.",
         "amazon_payments_abandoned_mfa_challenge": "Teie makset ei saanud sooritada. Proovige mõnda muud makseviisi või võtke ühendust panga või kaardi väljaandjaga.",
         "amazon_payments_could_not_enqueue_authorize": "Teie makse töötlemisel ilmnes probleem. Proovige uuesti või kasutage mõnda muud makseviisi.",
-        "title": "Turvaline maksmine pangalingiga või krediitkaardiga",
+        "title": "Maksmine",
         "amount_left_to_pay_label": "Maksetähtaeg:",
         "discount_button_action_label": "Rakenda sooduskood",
         "gift_card_code_label": "Kinkekaardi kood",

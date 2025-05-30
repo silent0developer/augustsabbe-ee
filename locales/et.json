@@ -1100,7 +1100,8 @@
           "error_authorizing": "Viga makse autoriseerimisel"
         },
         "account_connected": "Konto on ühendatud.",
-        "mor_disclaimer_html": "Kui klõpsate allpool ja vormistate oma tellimuse, nõustute ostma oma kauba(d) ettevõttelt Global-e kui registreeritud kaupmehelt\n selle tehingu jaoks Global-e <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{mor_terms}\" href=\"%{terms_href}\">nõuete ja tingimuste</a> alusel\n ja <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{privacy_policy}\" href=\"%{policy_href}\">privaatsuspoliitika</a> . Global-e on rahvusvaheline\n täitmisteenuse pakkuja aadressile %{shop_name}\n"
+        "mor_disclaimer_html": "Kui klõpsate allpool ja vormistate oma tellimuse, nõustute ostma oma kauba(d) ettevõttelt Global-e kui registreeritud kaupmehelt\n selle tehingu jaoks Global-e <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{mor_terms}\" href=\"%{terms_href}\">nõuete ja tingimuste</a> alusel\n ja <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{privacy_policy}\" href=\"%{policy_href}\">privaatsuspoliitika</a> . Global-e on rahvusvaheline\n täitmisteenuse pakkuja aadressile %{shop_name}\n",
+        "card_security_notice": "Turvaline maksmine pangalingiga või krediitkaardiga"
       },
       "thank_you": {
         "gift_card_text_title": {

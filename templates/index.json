@@ -173,13 +173,41 @@
           "settings": {
             "collection": "kombod"
           }
+        },
+        "featured_collection_Ti37Um": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "henri-drell-august-sabbe"
+          }
+        },
+        "featured_collection_6cVTJU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-naiste-pesu"
+          }
+        },
+        "featured_collection_ytHMin": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-sargid"
+          }
+        },
+        "featured_collection_fgwXXR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kinkekaardid"
+          }
         }
       },
       "block_order": [
         "featured_collection_fW3kRD",
         "featured_collection_km3Y4k",
         "featured_collection_ggzztP",
-        "featured_collection_cFytJA"
+        "featured_collection_cFytJA",
+        "featured_collection_Ti37Um",
+        "featured_collection_6cVTJU",
+        "featured_collection_ytHMin",
+        "featured_collection_fgwXXR"
       ],
       "custom_css": [],
       "settings": {

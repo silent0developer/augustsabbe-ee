@@ -34,6 +34,8 @@
       "disabled": true,
       "settings": {
         "image": "shopify://shop_images/men_banner.jpg",
+        "image_link": "",
+        "image_link_2": "",
         "image_overlay_opacity": 20,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -73,13 +75,27 @@
           "settings": {
             "collection": "kombod"
           }
+        },
+        "featured_collection_yGUME6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "henri-drell-august-sabbe"
+          }
+        },
+        "featured_collection_PcN6qW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-sargid"
+          }
         }
       },
       "block_order": [
         "featured_collection_UJ7RXe",
         "featured_collection_NmaVT4",
         "featured_collection_83rq7X",
-        "featured_collection_taeyA6"
+        "featured_collection_taeyA6",
+        "featured_collection_yGUME6",
+        "featured_collection_PcN6qW"
       ],
       "custom_css": [
         ".collection-list-wrapper .title-wrapper-with-link {justify-content: center; text-align: center;}"

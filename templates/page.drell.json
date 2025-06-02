@@ -1,0 +1,254 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+        "h1 {text-align: center;}"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_3fqeeU": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Nqxfkm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tugevad loovad häid aegu",
+            "heading_size": "hxl"
+          }
+        },
+        "text_gTTRt4": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_YUyPEJ": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "shopify://collections/sabbe-naiste-pesu",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "shopify://products/henridrell",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Nqxfkm",
+        "text_gTTRt4",
+        "buttons_YUyPEJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/drell_banner.jpg",
+        "image_link": "shopify://collections/august-sabbe-aluspesu",
+        "image_2": "shopify://shop_images/women_banner.jpg",
+        "image_link_2": "shopify://collections/sabbe-naiste-pesu",
+        "image_overlay_opacity": 30,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "color_scheme_mobile": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection_czzbm9": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "title": "#sabbewomen",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "sabbe-naiste-pesu",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_HFTBHN": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_xpK9HR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-igapaev"
+          }
+        },
+        "featured_collection_tMmr3j": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-sport"
+          }
+        },
+        "featured_collection_mBA64D": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbe-pidupaev"
+          }
+        },
+        "featured_collection_VGnn3a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "henri-drell-august-sabbe"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_xpK9HR",
+        "featured_collection_tMmr3j",
+        "featured_collection_mBA64D",
+        "featured_collection_VGnn3a"
+      ],
+      "custom_css": [
+        ".collection-list-wrapper .title-wrapper-with-link {justify-content: center; text-align: center;}"
+      ],
+      "settings": {
+        "title": "#sabbesalk meeste pesu",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_bhbckF": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "title": "#sabbesalk lemmikud",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "sabbe-top-3-valikut",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_3zegUM": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "title": "#sabbesalk meeste t-särgid",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "sabbe-sargid",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17485311380436fd61": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_XyBPCV": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": true,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 10,
+            "maxwidth": 1600,
+            "is_sample": false
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_XyBPCV"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_3fqeeU",
+    "featured_collection_czzbm9",
+    "collection_list_HFTBHN",
+    "featured_collection_bhbckF",
+    "featured_collection_3zegUM",
+    "17485311380436fd61"
+  ]
+}

@@ -9,67 +9,16 @@
  */
 {
   "sections": {
-    "ss_product_coupon_REEKqj": {
-      "type": "ss-product-coupon",
-      "blocks": {
-        "coupon_tJd6WJ": {
-          "type": "coupon",
-          "disabled": true,
-          "settings": {
-            "header": "Ladu tühi. Tellid täna 24.01 saad kätte.",
-            "text": "Välja arvatud mudelid: Sabbe Pidupäev ja Sabbe sport sinine. #kiirekasv"
-          }
-        }
-      },
-      "block_order": [
-        "coupon_tJd6WJ"
-      ],
-      "disabled": true,
-      "settings": {
-        "coupon_position": "above_buy",
-        "body_padding_horizontal": 40,
-        "body_padding_vertical": 4,
-        "body_radius": 12,
-        "body_border_thickness": 0,
-        "body_bg_animation": true,
-        "items_gap": 10,
-        "items_gap_mobile": 10,
-        "items_border": true,
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 16,
-        "heading_size_mobile": 14,
-        "heading_height": 130,
-        "heading_align": "center",
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 12,
-        "text_size_mobile": 12,
-        "text_height": 130,
-        "text_align": "center",
-        "text_mt": 4,
-        "body_bg_color": "#f5f14a",
-        "body_border_color": "#000000",
-        "body_circle_color": "#ffffff",
-        "items_border_color": "#dddddd",
-        "heading_color": "#111111",
-        "text_color": "#111111",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 12,
-        "padding_bottom": 12,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "content_width": 120,
-        "border_thickness": 0
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_p4XXDW": {
+          "type": "text",
+          "settings": {
+            "text": "<em><strong>US & International orders → </strong></em><a href=\"https://augustsabbe.com/products/henridrell\" title=\"https://augustsabbe.com/products/henridrell\"><em><strong>AUGUSTSABBE.COM</strong></em></a>",
+            "text_style": "body"
+          }
+        },
         "loox_reviews_loox_rating_HnJN7Y": {
           "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
@@ -200,6 +149,7 @@
         }
       },
       "block_order": [
+        "text_p4XXDW",
         "loox_reviews_loox_rating_HnJN7Y",
         "title",
         "description",
@@ -301,6 +251,8 @@
       "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG_7950.heic",
+        "image_link": "",
+        "image_link_2": "",
         "image_overlay_opacity": 60,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -713,7 +665,6 @@
     }
   },
   "order": [
-    "ss_product_coupon_REEKqj",
     "main",
     "17074861568df8c3c0",
     "related-products",

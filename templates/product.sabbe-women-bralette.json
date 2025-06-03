@@ -132,15 +132,6 @@
             "page": "naiste-bralette-moodud"
           }
         },
-        "collapsible_tab_XFnybm": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Stringid mõõdud",
-            "icon": "ruler",
-            "content": "",
-            "page": "moodud"
-          }
-        },
         "collapsible_tab_WYXFwA": {
           "type": "collapsible_tab",
           "settings": {
@@ -206,7 +197,6 @@
         "text_wNPdMN",
         "description",
         "collapsible_tab_R96Dn3",
-        "collapsible_tab_XFnybm",
         "collapsible_tab_WYXFwA",
         "variant_picker_CyAAat",
         "quantity_selector",

@@ -126,19 +126,19 @@
         "collapsible_tab_R96Dn3": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Mõõdud",
+            "heading": "Bralette mõõdud",
             "icon": "ruler",
-            "content": "<h3><strong>BRALETTE</strong></h3><p><strong>XS (Ariana)</strong><br/>Rinnaümbermõõt: 79–83 cm<br/>Rinnaalune ümbermõõt: 69–73 cm</p><p><strong>S (Taylor)</strong><br/>Rinnaümbermõõt: 84–88 cm<br/>Rinnaalune ümbermõõt: 74–78 cm</p><p><strong>M (Selena)</strong><br/>Rinnaümbermõõt: 89–93 cm<br/>Rinnaalune ümbermõõt: 79–83 cm</p><p><strong>L (Beyonce)</strong><br/>Rinnaümbermõõt: 94–98 cm<br/>Rinnaalune ümbermõõt: 84–88 cm</p><p><strong>XL (J.Lo)</strong><br/>Rinnaümbermõõt: 99–103 cm<br/>Rinnaalune ümbermõõt: 89–93 cm</p><p><strong>XXL (Prime Pam)</strong><br/>Rinnaümbermõõt: 104–108 cm<br/>Rinnaalune ümbermõõt: 94–98 cm</p><h3>STRINGID</h3><p><strong>XS (Ariana)</strong><br/>Vööümbermõõt: 62–66 cm<br/>Puusaümbermõõt: 88–92 cm</p><p><strong>S (Taylor)</strong><br/>Vööümbermõõt: 67–71 cm<br/>Puusaümbermõõt: 93–97 cm</p><p><strong>M (Selena)</strong><br/>Vööümbermõõt: 72–76 cm<br/>Puusaümbermõõt: 98–102 cm</p><p><strong>L (Beyonce)</strong><br/>Vööümbermõõt: 77–81 cm<br/>Puusaümbermõõt: 103–107 cm</p><p><strong>XL (J.Lo)</strong><br/>Vööümbermõõt: 82–87 cm<br/>Puusaümbermõõt: 108–113 cm</p><p><strong>XXL (Kim K)</strong><br/>Vööümbermõõt: 88–93 cm<br/>Puusaümbermõõt: 114–119 cm</p>",
-            "page": ""
+            "content": "",
+            "page": "naiste-bralette-moodud"
           }
         },
         "collapsible_tab_XFnybm": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Kohaletoimetamine 1 päev",
-            "icon": "plane",
+            "heading": "Stringid mõõdud",
+            "icon": "ruler",
             "content": "",
-            "page": "kohaletoimetamine"
+            "page": "moodud"
           }
         },
         "variant_picker_CyAAat": {
@@ -291,6 +291,8 @@
       "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG_7950.heic",
+        "image_link": "",
+        "image_link_2": "",
         "image_overlay_opacity": 60,
         "image_height": "small",
         "desktop_content_position": "middle-center",

@@ -141,6 +141,15 @@
             "page": "moodud"
           }
         },
+        "collapsible_tab_WYXFwA": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Kohaletoimetamine 1 päev",
+            "icon": "plane",
+            "content": "",
+            "page": "kohaletoimetamine"
+          }
+        },
         "variant_picker_CyAAat": {
           "type": "variant_picker",
           "settings": {
@@ -198,6 +207,7 @@
         "description",
         "collapsible_tab_R96Dn3",
         "collapsible_tab_XFnybm",
+        "collapsible_tab_WYXFwA",
         "variant_picker_CyAAat",
         "quantity_selector",
         "price",

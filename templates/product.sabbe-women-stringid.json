@@ -123,15 +123,6 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible_tab_R96Dn3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Bralette mõõdud",
-            "icon": "ruler",
-            "content": "",
-            "page": "naiste-bralette-moodud"
-          }
-        },
         "collapsible_tab_XFnybm": {
           "type": "collapsible_tab",
           "settings": {
@@ -205,7 +196,6 @@
         "loox_reviews_loox_snippets_widget_whe9JT",
         "text_wNPdMN",
         "description",
-        "collapsible_tab_R96Dn3",
         "collapsible_tab_XFnybm",
         "collapsible_tab_WYXFwA",
         "variant_picker_CyAAat",
